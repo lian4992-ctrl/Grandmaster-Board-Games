@@ -1,0 +1,5 @@
+{
+  "name": "Xiangqi Grandmaster",
+  "description": "A beautiful, fully functional Chinese Chess game featuring standard rules, local multiplayer, and AI-powered move suggestions powered by Gemini.",
+  "requestFramePermissions": []
+}
